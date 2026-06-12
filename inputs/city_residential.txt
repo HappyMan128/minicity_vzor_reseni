@@ -1,0 +1,9 @@
+Add Road 1 1
+Add Road 1 2
+Add House 2 2
+Add House 2 1
+Upgrade 2 2
+Upgrade 2 1
+Next
+Remove 1 2
+Add Park 1 2

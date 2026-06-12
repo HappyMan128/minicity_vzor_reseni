@@ -1,0 +1,8 @@
+Add Road 3 3
+Add Park 3 2
+Add Park 2 3
+Add House 4 3
+Add Factory 5 5
+Upgrade 3 3
+Upgrade 3 2
+Next

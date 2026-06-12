@@ -1,0 +1,8 @@
+Add Road 4 4
+Add Factory 4 5
+Add Factory 5 4
+Next
+Upgrade 1 1
+Upgrade 1 2
+Add House 5 3
+Next
